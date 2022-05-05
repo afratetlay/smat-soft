@@ -16,7 +16,7 @@ I created a page for SmatSoft which includes various Epson printers.
 ### Design Choices
 
 Proofing link can be found here:
-<a href="https://proofing.xigen.co.uk/clients/smatsoft/smatsoft.html" target="_blank">Proofing</a>
+<a href="https://proofing.xigen.co.uk/clients/smatsoft/smatsoft.html" target="_blank">Proofing link</a>
 
 
 ### Screenshot of the page
@@ -32,7 +32,7 @@ Proofing link can be found here:
 - [Visual Studio Code](https://code.visualstudio.com/) 
     - Developer used **Visual Studio Code** to create the Landing page. 
 - [Proofing](https://proofing.xigen.co.uk/clients/smatsoft/smatsoft.html)
-    - Here is a link done via proofing
+    - Link is done via proofing
 
 ## Testing 
 
